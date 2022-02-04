@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+}
+header {
+	height: 10vh;
+	background-color: yellow;
+}
+
+nav {
+	height: 10vh;
+	background-color: green;
+}
+
+section,
+aside,
+main {
+	display: inline-block;
+	height: 70vh;
+}
+
+footer {
+	height: 10vh;
+	background-color: aqua;
+}
+
+section {
+	height: 20vh;
+	background-color: pink;
+	width: 60vw;
+}
+
+aside {
+	position: absolute;
+	height: 70vh;
+	background-color: red;
+	width: 40vw;
+}
+
+main {
+	height: 50vh;
+	background-color: silver;
+	width: 60vw;
+}
+
+main article {
+	height: 20vh;
+	margin: 3.33333vh;
+	background-color: purple;
+}

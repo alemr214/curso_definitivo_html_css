@@ -1,0 +1,96 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/* Aplica para medidas rem */
+html {
+	font-size: 62.5%;
+}
+
+/* Pone todos los textos a tamaño 16px */
+body {
+	font-size: 1.6rem;
+}
+
+/* Aplica tamaños a las secciones principales */
+header {
+	height: 10vh;
+	background-color: cadetblue;
+}
+
+main {
+	height: 80vh;
+}
+
+footer {
+	height: 10vh;
+	background-color: darkorange;
+}
+
+/* Asigna la forma de colorcarse de la seccion del header */
+figure,
+nav {
+	display: inline-block;
+}
+
+figure {
+	margin: 1rem;
+}
+
+nav {
+	position: absolute;
+	right: 1.5rem;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+	margin: 1rem;
+}
+
+li a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: yellow;
+}
+/* Acomoda las secciones del main */
+aside,
+section {
+	display: inline-block;
+	height: 80vh;
+}
+
+aside {
+	width: 20vw;
+	background-color: chocolate;
+}
+
+aside div {
+	height: 15vh;
+	margin: 3vh;
+	background-color: crimson;
+}
+
+section {
+	position: absolute;
+	left: 20vw;
+	width: 80vw;
+	padding: 1rem;
+	background-color: darkblue;
+}
+
+.footer-social,
+.footer-info {
+	display: inline-block;
+	margin: 1rem;
+}
+
+.footer-info {
+	position: absolute;
+	right: 1.5rem;
+}

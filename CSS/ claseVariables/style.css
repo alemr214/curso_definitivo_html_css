@@ -1,0 +1,40 @@
+:root {
+	--primary-color: #003476;
+	--secundary-color: aqua;
+	--header-size: 4rem;
+	--font: 1.8rem;
+}
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+html {
+	font-size: 62.5%;
+}
+body {
+	font-size: 1.6rem;
+}
+header {
+	width: 100vw;
+	height: 15vh;
+	background-color: #003476;
+}
+main {
+	width: 100vw;
+	height: 70vh;
+	font-size: 1.8rem;
+	background-color: aqua;
+}
+h1 {
+	font-size: var(--header-size);
+}
+section {
+	width: 100vw;
+	height: 70vh;
+}
+footer {
+	width: 100vw;
+	height: 15vh;
+	background-color: yellow;
+}

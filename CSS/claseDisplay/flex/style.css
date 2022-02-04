@@ -1,0 +1,49 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+}
+
+.container {
+	border: 0.3rem solid black;
+	display: flex;
+	align-items: stretch;
+	height: 50vh;
+}
+
+.box {
+	width: 10rem;
+}
+
+.box1 {
+	background-color: antiquewhite;
+	left: 1rem;
+}
+
+.box2 {
+	background-color: salmon;
+}
+
+.box3 {
+	background-color: aqua;
+}
+
+.box4 {
+	background-color: aquamarine;
+}
+
+.box5 {
+	background-color: azure;
+}
+
+.box6 {
+	background-color: blueviolet;
+}

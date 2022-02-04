@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container-parent {
+  display: inline-block;
+}
+
+.box {
+  display: inline-block;
+  border-radius: 10px;
+}
+
+#back {
+  background-color: rgb(211, 197, 197);
+  padding: 100px;
+  margin: 100px;
+}
+
+#front {
+  background-color: red;
+  padding: 50px;
+  margin-left: 300px;
+  position: relative;
+  bottom: 450px;
+}
