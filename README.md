@@ -1,6 +1,6 @@
 # Código del curso Definitivo de HTML y CSS
 
-Este repositorio contiene el codigo realizado durante el _Curso Definito de HTML y CSS_ para el aprendizaje de los lenguajes HTML y CSS en el uso de paginas we, impartido por el instructor **Diego de Granda** en la plataforma de [Platzi](http://platzi.com/ "Platzi")
+Este repositorio contiene el código realizado durante el _Curso Definitivo de HTML y CSS_ para el aprendizaje de los lenguajes HTML y CSS en el uso de páginas web, impartido por el instructor **Diego de Granda** en la plataforma de [Platzi](http://platzi.com/ "Platzi")
 
 ## Uso
 
@@ -12,10 +12,14 @@ El repositorio se encuentra dividido en diferentes secciones dentro de cada dire
 
 ## Herramientas
 
-Para poder hacer uso, edicion y ejecución de los archivos dentro del repositorio es necesario descargar e instalar
+Para poder hacer uso, edición y ejecución de los archivos dentro del repositorio es necesario descargar e instalar
 
--  Un editor de codigo para texto plano.
+-  Un editor de código para texto plano.
 -  Un navegador web.
+
+## Notas del curso
+
+Podras leer las [notas](https://knowing-rodent-40e.notion.site/Curso-Definitivo-de-HTML-y-CSS-f71bbf07cdac4c5dafb1465bae90670b "notas") realizadas por el [autor](https://github.com/alemr214 "autor") de este repositorio en cual contiene explicaciones, ejemplos y mas.
 
 ## Descarga
 
